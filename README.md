@@ -4,7 +4,7 @@ I'm Çağrı from Turkey, and I do content on Design and Development. I really e
 
 Skills: / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on 🥴  
+- 🔭 I’m currently working on scripts  
 - ⚡ Fun fact: Ğ 
 
 
