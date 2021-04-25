@@ -1,10 +1,10 @@
-Hi there 👋, Çağrı "MasivenXD"*
+### Hi there 👋, Çağrı "MasivenXD"
 #### Design and Development
 I'm Çağrı from Turkey, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. You can check out my discord at Çağrı#8093 or https://discord.gg/UHSjmC9b
 
 Skills: / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on scripts  
+- 🔭 I’m currently working on 🥴  
 - ⚡ Fun fact: Ğ 
 
 
@@ -14,5 +14,13 @@ Skills: / REACT / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MasivenXD)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MasivenXD&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasivenXD)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MasivenXD&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MasivenXD)  
+
+![GitHub metrics](https://metrics.lecoq.io/MasivenXD)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MasivenXD)  
 
