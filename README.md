@@ -1,4 +1,4 @@
-### Hi there 👋, Çağrı "MasivenXD"    06.06.2021 UPDATE I don't use my account because of my exam year
+### Hi there 👋, Çağrı "MasivenXD"    *06.06.2021 UPDATE I don't use my account because of my exam year*
 #### Design and Development
 I'm Çağrı from Turkey, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. You can check out my discord at Çağrı#8093 or https://discord.gg/UHSjmC9b
 
